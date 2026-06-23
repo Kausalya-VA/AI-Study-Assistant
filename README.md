@@ -47,19 +47,16 @@ Smart Study Assistant helps students quickly convert study notes into interactiv
 
 ## Installation and Usage
 
-### 1. Clone the Repository
 
-git clone YOUR_GITHUB_REPOSITORY_LINK
-
-### 2. Install Dependencies
+###  Install Dependencies
 
 pip install -r requirements.txt
 
-### 3. Run the Application
+###  Run the Application
 
 python app.py
 
-### 4. Open in Browser
+###  Open in Browser
 
 http://127.0.0.1:5000
 
